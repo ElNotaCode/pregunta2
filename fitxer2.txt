@@ -1,3 +1,5 @@
 FITXER2
 
 modif 1 pregunta 2
+
+modif 2 pregunta 2
